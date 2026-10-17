@@ -1,0 +1,30 @@
+{
+  "name": "Following the root",
+  "image": "https://api.imd.fun/artifacts/d77892ed4f2bfeaf83ed2ce981d0fd97ff2701fd75a2eb19690636ea0c55d2fd",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "State Witness"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe follows each branch back to one root before trusting its leaves."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Verify Ethereum account and storage proofs against a trusted state root"
+    }
+  ]
+}
