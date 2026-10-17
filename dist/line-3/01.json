@@ -1,0 +1,30 @@
+{
+  "name": "The Evidence Finder",
+  "image": "https://api.imd.fun/artifacts/b9bec02f1171db91905aa3b16b80f74e401ff4e38bd2a84b2936da2a3cd73232",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Evidence Search"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe searches scattered stones to find one useful piece of evidence."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Offline document search with exact source line citations"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 1,
+  "tool": "Evidence Search",
+  "checks": {
+    "behavioral_tests_passed": 12,
+    "demo_metadata_first_hit": "zto.md:1-9",
+    "demo_pool_first_hit": "pool.md:1-10",
+    "record_shape": "passed",
+    "allowed_paths_and_sizes": "passed",
+    "png_crc_and_decompression": "passed",
+    "jpeg_decoded_visual_review": "passed"
+  },
+  "wall": {
+    "path": "artifacts/line-3/wall.png",
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "b9bec02f1171db91905aa3b16b80f74e401ff4e38bd2a84b2936da2a3cd73232"
+  },
+  "preview": {
+    "path": "dist/line-3/01.jpg",
+    "format": "JPEG",
+    "mode": "RGB",
+    "width": 512,
+    "height": 512,
+    "bytes": 90415,
+    "sha256": "65f8810e4babf159cb4ef8eed69021403285bef2adcb95c97d180af48e5de125"
+  },
+  "visual_review": {
+    "method": "Viewed both the native-size PNG and the decoded JPEG; checked cave landmarks, Pepe face, earth-pigment style, five digits per hand, and absence of text or borders.",
+    "unmet_visual_requirements": [],
+    "limitations": [
+      "Visual assessment is subjective; the grip curls some digits.",
+      "AI editing preserves the cave visually, not byte-for-byte background pixels."
+    ]
+  },
+  "source_observation": {
+    "chain_id": 1,
+    "block_number": 26212513,
+    "public_rpc_source": "https://ethereum-rpc.publicnode.com",
+    "trust": "Recorded RPC observation, not an independently verified state proof."
+  }
+}

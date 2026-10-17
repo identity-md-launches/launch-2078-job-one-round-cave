@@ -1,0 +1,9 @@
+# Mark 01 image prompt
+
+Built-in image generation, edit mode; reference: the supplied bare Crystal cave.
+This is the exact final prompt used for the accepted wall:
+
+> Use case: precise-object-edit. Edit target: the supplied bare cave image. Deliver a square PNG maintaining the original 1254 by 1254 canvas, identical camera view, rock surfaces, cracks, crystals, lighting and framing. Add only a small prehistoric pigment painting in the upper-left-middle area of the flat wall, roughly x=270..600,y=320..650; leave most of the rock bare for future paintings. This is the first painting on the wall. Paint Pepe the frog as a primitive cave figure drawn with burnt charcoal and rubbed red/yellow ochre and chalk white on the rough stone, no green. Pepe has a recognizable broad frog face, very wide mouth, big heavy-lidded eyes, a thoughtful expression, simple squat crouching body. Pepe is finding useful evidence amongst scattered pebbles: in his right hand he holds a simple charcoal-outlined magnifying lens over a small cluster of three ochre stones, and his left hand rests open on the wall. Both visible hands MUST have exactly FIVE digits each: FOUR fingers and ONE thumb, the Matt Furie anatomy, never four total or six total. Spread the left hand digits visibly enough to count; draw all five right-hand digits wrapped visibly around the short lens handle. The image means searching scattered material to find a useful piece. The painting is flat handmade cave art with uneven worn pigment and rock showing through, not a living character, not 3D. No extra handprints. Do not change or repaint the cave background. No letters, numbers, writing, signatures, watermarks, logos, borders or frames. No modern colors. Preserve original square canvas and all cave landmarks.
+
+The PNG was accepted after visual inspection. Its 512-pixel JPEG is a resized
+encoding of the same finished wall, not a second image generation.
