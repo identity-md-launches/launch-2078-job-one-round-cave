@@ -1,0 +1,56 @@
+{
+  "number": 1,
+  "tool": "Offline Resolver",
+  "checks": {
+    "behavioral_tests_passed": 17,
+    "random_catalogs_checked_against_exhaustive_oracle": 400,
+    "cli_exit_status_cases_passed": 4,
+    "real_metadata_demo": "resolved in 6 states",
+    "png_crc_and_decompression": "passed",
+    "png_chunks_verified": 4,
+    "record_shape": "passed",
+    "allowed_paths_and_sizes": "passed"
+  },
+  "wall": {
+    "path": "artifacts/line-4/wall.png",
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 2528654,
+    "sha256": "744178408ffe88c1b2141c369151c45a0fca1edfc0dbbde502194526385f6c62"
+  },
+  "preview": {
+    "path": "dist/line-4/01.jpg",
+    "format": "JPEG",
+    "mode": "RGB",
+    "width": 512,
+    "height": 512,
+    "bytes": 79176,
+    "sha256": "c039b4b9d127cf2bc0ca17cfa8d01b269c85b1626e6feb756cdee536f813a59c"
+  },
+  "visual_review": {
+    "method": "Viewed the full final PNG, the decoded final JPEG, and an enlarged in-memory crop of both hands. Counted each hand after local corrections; compared cave framing, major cracks, crystals, and lighting with the bare cave.",
+    "upper_hand": {
+      "thumbs": 1,
+      "fingers": 4,
+      "total_digits": 5
+    },
+    "lower_hand": {
+      "thumbs": 1,
+      "fingers": 4,
+      "total_digits": 5
+    },
+    "unmet_visual_requirements": [],
+    "limitations": [
+      "Human visual assessment is subjective.",
+      "AI editing softened some fine rock texture; exact background pixel preservation is not claimed.",
+      "The small JPEG makes individual fingers less distinct than the full-resolution wall."
+    ]
+  },
+  "tool_limitations": [
+    "Finite catalog and numeric release grammar only; not a package installer or complete ecosystem lockfile.",
+    "Example excludes Python/platform constraints, conditional dependencies, and extras.",
+    "Budget/depth limits return inconclusive rather than claiming no solution."
+  ]
+}

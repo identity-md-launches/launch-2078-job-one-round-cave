@@ -1,0 +1,162 @@
+{
+  "observed_at_utc": "2026-10-17T13:25:36.444081+00:00",
+  "scope": "Finite package-version compatibility only. Conditional dependencies, extras, Python constraints, artifacts and platform compatibility are excluded; this is not an installable lockfile.",
+  "sources": [
+    {
+      "excluded_conditional_requirements": [
+        "PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'",
+        "chardet (<6,>=3.0.2) ; extra == 'use_chardet_on_py3'"
+      ],
+      "package": "requests",
+      "requires_dist": [
+        "charset-normalizer (<4,>=2)",
+        "idna (<4,>=2.5)",
+        "urllib3 (<3,>=1.21.1)",
+        "certifi (>=2017.4.17)",
+        "PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'",
+        "chardet (<6,>=3.0.2) ; extra == 'use_chardet_on_py3'"
+      ],
+      "requires_python": ">=3.7",
+      "url": "https://pypi.org/pypi/requests/2.31.0/json",
+      "version": "2.31.0"
+    },
+    {
+      "excluded_conditional_requirements": [
+        "PySocks!=1.5.7,>=1.5.6; extra == \"socks\"",
+        "chardet<6,>=3.0.2; extra == \"use-chardet-on-py3\""
+      ],
+      "package": "requests",
+      "requires_dist": [
+        "charset_normalizer<4,>=2",
+        "idna<4,>=2.5",
+        "urllib3<3,>=1.21.1",
+        "certifi>=2017.4.17",
+        "PySocks!=1.5.7,>=1.5.6; extra == \"socks\"",
+        "chardet<6,>=3.0.2; extra == \"use-chardet-on-py3\""
+      ],
+      "requires_python": ">=3.9",
+      "url": "https://pypi.org/pypi/requests/2.32.5/json",
+      "version": "2.32.5"
+    },
+    {
+      "excluded_conditional_requirements": [
+        "ruff>=0.6.2; extra == \"all\"",
+        "mypy>=1.11.2; extra == \"all\"",
+        "pytest>=8.3.2; extra == \"all\"",
+        "flake8>=7.1.1; extra == \"all\""
+      ],
+      "package": "idna",
+      "requires_dist": [
+        "ruff>=0.6.2; extra == \"all\"",
+        "mypy>=1.11.2; extra == \"all\"",
+        "pytest>=8.3.2; extra == \"all\"",
+        "flake8>=7.1.1; extra == \"all\""
+      ],
+      "requires_python": ">=3.6",
+      "url": "https://pypi.org/pypi/idna/3.10/json",
+      "version": "3.10"
+    },
+    {
+      "excluded_conditional_requirements": [
+        "ruff>=0.6.2; extra == \"all\"",
+        "mypy>=1.11.2; extra == \"all\"",
+        "pytest>=8.3.2; extra == \"all\"",
+        "flake8>=7.1.1; extra == \"all\""
+      ],
+      "package": "idna",
+      "requires_dist": [
+        "ruff>=0.6.2; extra == \"all\"",
+        "mypy>=1.11.2; extra == \"all\"",
+        "pytest>=8.3.2; extra == \"all\"",
+        "flake8>=7.1.1; extra == \"all\""
+      ],
+      "requires_python": ">=3.8",
+      "url": "https://pypi.org/pypi/idna/3.11/json",
+      "version": "3.11"
+    },
+    {
+      "excluded_conditional_requirements": [
+        "brotlicffi>=0.8.0; ((os_name != \"nt\" or python_version >= \"3\") and platform_python_implementation != \"CPython\") and extra == \"brotli\"",
+        "brotli==1.0.9; (os_name != \"nt\" and python_version < \"3\" and platform_python_implementation == \"CPython\") and extra == \"brotli\"",
+        "brotlipy>=0.6.0; (os_name == \"nt\" and python_version < \"3\") and extra == \"brotli\"",
+        "brotli>=1.0.9; (python_version >= \"3\" and platform_python_implementation == \"CPython\") and extra == \"brotli\"",
+        "pyOpenSSL>=0.14; extra == \"secure\"",
+        "cryptography>=1.3.4; extra == \"secure\"",
+        "idna>=2.0.0; extra == \"secure\"",
+        "certifi; extra == \"secure\"",
+        "urllib3-secure-extra; extra == \"secure\"",
+        "ipaddress; python_version == \"2.7\" and extra == \"secure\"",
+        "PySocks!=1.5.7,<2.0,>=1.5.6; extra == \"socks\""
+      ],
+      "package": "urllib3",
+      "requires_dist": [
+        "brotlicffi>=0.8.0; ((os_name != \"nt\" or python_version >= \"3\") and platform_python_implementation != \"CPython\") and extra == \"brotli\"",
+        "brotli==1.0.9; (os_name != \"nt\" and python_version < \"3\" and platform_python_implementation == \"CPython\") and extra == \"brotli\"",
+        "brotlipy>=0.6.0; (os_name == \"nt\" and python_version < \"3\") and extra == \"brotli\"",
+        "brotli>=1.0.9; (python_version >= \"3\" and platform_python_implementation == \"CPython\") and extra == \"brotli\"",
+        "pyOpenSSL>=0.14; extra == \"secure\"",
+        "cryptography>=1.3.4; extra == \"secure\"",
+        "idna>=2.0.0; extra == \"secure\"",
+        "certifi; extra == \"secure\"",
+        "urllib3-secure-extra; extra == \"secure\"",
+        "ipaddress; python_version == \"2.7\" and extra == \"secure\"",
+        "PySocks!=1.5.7,<2.0,>=1.5.6; extra == \"socks\""
+      ],
+      "requires_python": "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,>=2.7",
+      "url": "https://pypi.org/pypi/urllib3/1.26.20/json",
+      "version": "1.26.20"
+    },
+    {
+      "excluded_conditional_requirements": [
+        "brotli>=1.0.9; platform_python_implementation == \"CPython\" and extra == \"brotli\"",
+        "brotlicffi>=0.8.0; platform_python_implementation != \"CPython\" and extra == \"brotli\"",
+        "h2<5,>=4; extra == \"h2\"",
+        "pysocks!=1.5.7,<2.0,>=1.5.6; extra == \"socks\"",
+        "zstandard>=0.18.0; extra == \"zstd\""
+      ],
+      "package": "urllib3",
+      "requires_dist": [
+        "brotli>=1.0.9; platform_python_implementation == \"CPython\" and extra == \"brotli\"",
+        "brotlicffi>=0.8.0; platform_python_implementation != \"CPython\" and extra == \"brotli\"",
+        "h2<5,>=4; extra == \"h2\"",
+        "pysocks!=1.5.7,<2.0,>=1.5.6; extra == \"socks\"",
+        "zstandard>=0.18.0; extra == \"zstd\""
+      ],
+      "requires_python": ">=3.9",
+      "url": "https://pypi.org/pypi/urllib3/2.5.0/json",
+      "version": "2.5.0"
+    },
+    {
+      "excluded_conditional_requirements": [],
+      "package": "charset-normalizer",
+      "requires_dist": [],
+      "requires_python": ">=3.7",
+      "url": "https://pypi.org/pypi/charset-normalizer/3.4.3/json",
+      "version": "3.4.3"
+    },
+    {
+      "excluded_conditional_requirements": [],
+      "package": "charset-normalizer",
+      "requires_dist": [],
+      "requires_python": ">=3.7",
+      "url": "https://pypi.org/pypi/charset-normalizer/3.4.4/json",
+      "version": "3.4.4"
+    },
+    {
+      "excluded_conditional_requirements": [],
+      "package": "certifi",
+      "requires_dist": [],
+      "requires_python": ">=3.7",
+      "url": "https://pypi.org/pypi/certifi/2025.8.3/json",
+      "version": "2025.8.3"
+    },
+    {
+      "excluded_conditional_requirements": [],
+      "package": "certifi",
+      "requires_dist": [],
+      "requires_python": ">=3.7",
+      "url": "https://pypi.org/pypi/certifi/2025.10.5/json",
+      "version": "2025.10.5"
+    }
+  ]
+}

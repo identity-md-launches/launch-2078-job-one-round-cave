@@ -1,0 +1,30 @@
+{
+  "name": "Parts That Fit",
+  "image": "https://api.imd.fun/artifacts/744178408ffe88c1b2141c369151c45a0fca1edfc0dbbde502194526385f6c62",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Offline Resolver"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe joins compatible stones into a path that holds together."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Finite offline dependency resolution"
+    }
+  ]
+}
