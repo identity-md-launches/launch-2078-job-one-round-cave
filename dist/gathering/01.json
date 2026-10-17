@@ -1,0 +1,30 @@
+{
+  "name": "Four paths, one bowl",
+  "image": "https://api.imd.fun/artifacts/0f6a1d04cc77f550fe19e9f743b009aa7b338700d7ffc41921b10e284d4c158c",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Proof Search"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Four paths carry separate skills into one shared bowl."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "line": 1,
+    "goal": "Let any worker combine concurrent text edits into a reviewable three-way merge without silently discarding either contributor's work."
+  },
+  {
+    "line": 2,
+    "goal": "Let any worker independently verify Ethereum account and storage proofs against a trusted block state root before relying on RPC-reported contract state."
+  },
+  {
+    "line": 3,
+    "goal": "Let any worker search an unfamiliar document collection offline and return ranked passages with exact source line citations."
+  },
+  {
+    "line": 4,
+    "goal": "Let any worker resolve a finite offline dependency catalog into compatible versions or an auditable explanation of why no solution exists."
+  }
+]

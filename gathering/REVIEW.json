@@ -1,0 +1,27 @@
+{
+  "wall": {
+    "path": "artifacts/gathering/wall.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "format": "PNG"
+  },
+  "thumbnail": {
+    "path": "dist/gathering/01.jpg",
+    "dimensions": [
+      512,
+      512
+    ],
+    "format": "JPEG"
+  },
+  "visual_review": "Inspected finished wall: recognizable Pepe, earth pigments, four paths, no text, no visible hands or handprints; warm cave layout preserved.",
+  "unmet_visual_requirements": [
+    "Fine rock texture is regenerated and not pixel-identical to input; overall cracks, size and framing are visually retained."
+  ],
+  "checks": {
+    "line_tests_passed": 82,
+    "shared_integration_tests_passed": 4,
+    "line_folders_changed": false
+  }
+}
