@@ -1,0 +1,30 @@
+{
+  "name": "First joining",
+  "image": "https://api.imd.fun/artifacts/3b36994999f96bcb956d4ed86f3708af7617cd2d4b6b9bb118e329a8c8955ea6",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Threeway"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe joins two pigment trails while keeping both contributors visible."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reviewable three-way text merges"
+    }
+  ]
+}
